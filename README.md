@@ -7,7 +7,7 @@ https://future-beatz.vercel.app/<br>
 
 <img src="/LandingScreenShot-FutureBeatz.png" width="70%" height="70%">
 <br>
-The idea behind the project is that a music producer could make a <a href="https://www.lucidsamples.com/blog/what-is-sample-pack">samplepack</a> and sell it as an NFT. A buyer could purchase the NFT and use it in their own production. The original creator would get royalties if the buyer choose to resell the sample.<br>
+The idea behind the project is that a music producer could make a <a href="https://www.lucidsamples.com/blog/what-is-sample-pack">samplepack</a> and sell it as an NFT. A buyer could purchase the NFT and use it in their own production. The original creator would get royalties if the buyer chose to resell the sample.<br>
 <br>
 
 **Things to note:** <br><br>
