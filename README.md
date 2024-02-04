@@ -13,7 +13,7 @@ The idea behind this project is that a music producer could make a <a href="http
 **Things to note:** <br><br>
 * For the project the nft is actually a mp4 file (you can listen to the sample). In a real world example you would need a link for a buyer to download a high resolution audio file as Liteflow does not currently support the <a href="https://www.howtogeek.com/392504/what-are-wav-and-wave-files-and-how-do-i-open-them/">wav</a> file format. You would need some type of NFT gated decentralized storage, which would hold the lossless high resolution audio file.
 * In a real world example, the original creator could also require to be paid a percentage of the sales (or streams) of a song that uses their sample. It would however be diffucult to enforce this.
-* These are custom NFTs I generated and embedded with audio files. The audio clips are deconstructed parts of a song I composed.
+* These are custom NFTs I generated and embedded with audio files. The audio clips are deconstructed parts of a song I composed. Each NFT is its own unique audio loop.
 * In order to interact with the app, you will need an Ethereum wallet ex.Metamask, be on the Lightlink Pegasus Testnet and have test <a href="https://faucet.pegasus.lightlink.io">Ether</a>.
   
 
