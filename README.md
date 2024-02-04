@@ -5,7 +5,7 @@
 Link to project deployed on the Lightlink Pegasus Testnet<br><br>
 https://future-beatz.vercel.app/<br>
 
-<img src="/LandingScreenShot-FutureBeatz.png" width="75%" height="75%">
+<img src="/LandingScreenShot-FutureBeatz.png" width="70%" height="70%">
 
 
 
