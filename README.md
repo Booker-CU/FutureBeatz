@@ -1,6 +1,6 @@
 # FutureBeatz
 
-## Hackathon project for the Encode Club / Lightlink Hackathon 
+## Hackathon project for the Encode Club / Lightlink(Liteflow) Hackathon 
 (this project uses the [Liteflow](https://liteflow.com) "Marketplace" template... more details below.)
 
 
